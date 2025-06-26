@@ -5,18 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85494334-b61a-4c24-ace7-38da9fe8644e" name="Changes" comment="y">
-      <change afterPath="$PROJECT_DIR$/module_6/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_6/main2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_6/main3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_6/mainn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_6/my_math.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_6/my_package/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_6/my_package/module1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_6/my_package/module2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_6/my_package/module3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_6/simple_math/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_6/simple_math/math_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_6/using_pip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_7/error_handling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_7/explicitTypeCasting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_7/implicitTypeCasting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_7/input_casting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_7/user_input.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,11 +53,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.error_handling.executor": "Run",
+    "Python.explicitTypeCasting.executor": "Run",
+    "Python.implicitTypeCasting.executor": "Run",
+    "Python.input_casting.executor": "Run",
     "Python.lists.executor": "Run",
     "Python.main.executor": "Run",
     "Python.main2.executor": "Run",
     "Python.main3.executor": "Run",
     "Python.mainn.executor": "Run",
+    "Python.user_input.executor": "Run",
     "Python.using_pip.executor": "Run",
     "Python.variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -118,7 +116,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749142555779</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="y">
+      <option name="closed" value="true" />
+      <created>1750953479982</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1750953479982</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
