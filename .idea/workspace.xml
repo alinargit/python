@@ -5,12 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85494334-b61a-4c24-ace7-38da9fe8644e" name="Changes" comment="y">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_1/lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_6/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_6/main2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_6/main3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_6/mainn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_6/my_math.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_6/my_package/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_6/my_package/module1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_6/my_package/module2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_6/my_package/module3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_6/simple_math/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_6/simple_math/math_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_6/using_pip.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,10 +34,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;alinargit&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/alinargit/python&quot;,
+    &quot;accountId&quot;: &quot;4e9636a9-70e5-4504-ac39-e61f1e9976bc&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2y0S86EymBWYbaD92IK1yzpsZPl" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,6 +61,11 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.lists.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.main2.executor": "Run",
+    "Python.main3.executor": "Run",
+    "Python.mainn.executor": "Run",
+    "Python.using_pip.executor": "Run",
     "Python.variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -75,7 +102,23 @@
       <option name="project" value="LOCAL" />
       <updated>1748971149482</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="y">
+      <option name="closed" value="true" />
+      <created>1749142403912</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1749142403912</updated>
+    </task>
+    <task id="LOCAL-00003" summary="y">
+      <option name="closed" value="true" />
+      <created>1749142555779</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1749142555779</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
